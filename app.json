@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "senaiapp",
+    "slug": "senaiapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
